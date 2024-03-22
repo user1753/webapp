@@ -1,0 +1,12 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Country->Time</title>
+</head>
+<body>
+    <h1> Print name of an area and a country : </h1>
+    <form action="/usersdata" method="post">
+        <input placehoder="Print area and country" required>
+    </form>
+</body>
+</html>
